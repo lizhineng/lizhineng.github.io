@@ -72,23 +72,19 @@ tags: php, laravel
 
     require __DIR__.'/../bootstrap/autoload.php';
 
-修改为
+    $app = require_once __DIR__.'/../bootstrap/app.php';
+
+把它们分别修改为
 
     require __DIR__.'/../myfolder/myapp/bootstrap/autoload.php';
 
-然后，将
-
-    $app = require_once __DIR__.'/../bootstrap/app.php';
-
-修改为
-
     $app = require_once __DIR__.'/../myfolder/myapp/bootstrap/app.php';
 
-其作用是告诉程序入口文件 Laravel 的核心文件在哪里。
+如果自行改动了目录结构，则自行按照实际情况修改。其作用是告诉程序入口文件 Laravel 的核心文件在哪里。
 
 ## 三、解决万网虚拟主机不支持 AES-256-CBC 加密的问题
 
-遗憾的是，这里并没有什么很好的解决办法，我们唯有把它进行降级，使用 128 位的 AES-128-CBC 算法。
+（撰稿时）遗憾的是，这里并没有什么很好的解决办法，我们唯有把它进行降级，使用 128 位的 AES-128-CBC 算法。
 
 首先打开项目文件 `/config/app.php`，找到
 
