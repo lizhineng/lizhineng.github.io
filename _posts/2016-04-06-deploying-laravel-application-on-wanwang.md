@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 在万网虚拟主机部署 Laravel 应用
-tags: php, laravel
+categories: php laravel
 ---
 
 今天给客户部署 Laravel 的应用时，对方提供的是万网的虚拟主机，我们遇到虚拟主机应该如何部署呢？这里有几个地方要注意的。

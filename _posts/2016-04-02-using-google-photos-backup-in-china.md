@@ -1,6 +1,7 @@
 ---
 layout: post
 title: 在国内使用 Google Photos Backup
+categories: google
 ---
 
 不知曾几何时，就已经把自己的照片全部托管在 Google 了，当时还是存在于 Google+ 里的一个项目，现在独立成 Google Photos, 它的好处就不需要多说了，免费无限制的高品质图片存储，强大的检索和领先星球的在线图片处理体验，不时上去还会有一些小惊喜。
