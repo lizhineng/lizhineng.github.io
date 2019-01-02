@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Hello, 2019!"
+date: 2019-01-02 17:18:15 +0800
+categories: personal
+---
+I was totally a loser in the past, I messed up all the things, life, work, finance, family, and have no sense of time. The plan I made and the goals I set was almost failed with no exception. I wanted to learn something, made some progress or build something interesting, but my determination was always a flash in the pan even I realized that would destroy my career. I always see some people on the Internet, they have a strong passion to achieve their projects or goals, that’s really inspiring me.
+
+This year, I think I must make a change, I wanna be those people who could keep their words and turns idea become reality, instead of a talker. I’ve been learning English for many years, but still can’t be speaking and writing it efficiently, so this year I made a decision to subscribe Unlimited English program on [ESLPod.com](https://eslpod.com) and learn the whole lessons in a year. Everybody likes to make their annual plan at the beginning of the year, but due to my procrastination, I need to overcome it first, build good habits and stick to them. This year, no specific goals are set, no more goals like “I wanna read 36 books in a year” or something like “I wanna go jogging at least 180km this year”. Just build habits and make them stick. Life is a journey.
+
+Enough sleeping time is also another important thing and for good health. Lack of sleep can make me dizzy, impatient,  short-tempered, irritable, affects working efficiency and hurts my brain. Health is everything and is the most valuable asset for us, also the time. In the past, I cannot measure the value of time and money properly, always wasting lots of precious time doing unimportant, petty little things, instead of getting things done. Sometimes paying a little, it could save my day.
+
+In 2019, I’ll mainly dive into three aspects: 1) English learning, 2) Laravel (PHP) and 3) Mathematics. I hadn’t learned the systematic CS courses which I also need to make up AOSP, even so, thanks to my boss which gave me the great opportunity and more freedom to create value at Guoyou Trading. My belief is “Diligence can compensate for lack of natural talent（勤能补拙）”.
+
+> Don’t compare your chapter 1 to someone else’s chapter 20.
+
+Hope everyone could be the best version of themselves. Happy new year, and thank you for stopping by.
