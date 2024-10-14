@@ -24,8 +24,8 @@ from 0.15 Yuan/GB to 1.31 Yuan/GB.
 ESA data overage charges: 0.198 Yuan/GB for Basic Plan, 0.75 Yuan/GB for
 Standard Plan, and 1.2 Yuan/GB for Advanced Plan.
 
-I couldn't find the data overage charges on the official website in the
-English documentation, this screenshot is originally from the
+I couldn't find the data overage charges in the official documentation in
+English, this screenshot is originally from the
 [Chinese version](https://help.aliyun.com/document_detail/2701851.html)
 and translated into English.
 
