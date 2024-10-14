@@ -38,3 +38,10 @@ to add a site with CNAME setup on the Basic Plan.
 ![The website that you entered is a subdomain, for which you can only select the Enterprise plan.](/assets/2024-10-14-alibaba-cloud-esa/esa-subdomain-enterprise-plan.webp "Screenshot of adding a new site to Alibaba Cloud ESA")
 
 So that may have to wait until my next project, with root domain.
+
+## Useful Links
+
+- [ESA Documentation - English](https://www.alibabacloud.com/help/en/dcdnnext)
+- [ESA Plan Comparison - English](https://www.alibabacloud.com/help/en/dcdnnext/latest/package-comparison)
+- [ESA Documentation - Chinese](https://help.aliyun.com/product/2673927.html)
+- [ESA Plan Comparison - Chinese](https://help.aliyun.com/document_detail/2701845.html)
